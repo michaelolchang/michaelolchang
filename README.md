@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @michaelolchang
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning python, C++, Java and Network Security
+- 🌱 I’m currently learning python, C++, Java, Python and Network Security
 - 💞️ I’m looking to collaborate on any technology projects
 - 📫 How to reach me: michaelchang.mhc@gmail.com
 
